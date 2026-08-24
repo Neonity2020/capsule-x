@@ -17,6 +17,8 @@
 
 > [!NOTE]
 > This theme is in beta. There are no official releases or npm packages yet. If you want to use it, clone directly from the repository.
+> 
+> If you make any contributions but get no reply or need help, please leave a issue.
 
 ## Features
 
